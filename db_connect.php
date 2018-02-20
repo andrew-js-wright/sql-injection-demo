@@ -1,6 +1,6 @@
 <?php
 
-	$connection = mysqli_connect("localhost", "root", "", "sqli");
+	$connection = mysqli_connect(getenv('CLEARDB_DATABASE_URL'););
 
 	if (mysqli_connect_errno($connection))
 	{
