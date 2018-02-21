@@ -1,7 +1,5 @@
 -- Create database
-DROP DATABASE IF EXISTS `sqli`;
-CREATE DATABASE IF NOT EXISTS `sqli` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `sqli`;
+USE `heroku_d585f1a2987e963`;
 
 
 -- Create `users` table
