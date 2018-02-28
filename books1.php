@@ -16,7 +16,7 @@
     <link href="css/style.css" rel="stylesheet">
   </head>
 
-  <body>
+  <body class="mainstream js-enabled">
     <header role="banner" id="global-header">
       <div class="header-wrapper">
         <div class="header-global">
@@ -30,7 +30,7 @@
     </header>
     <div id="global-header-bar"></div>
     <div id="wrapper" class="local_transaction service">
-    <div class="govuk-breadcrumbs " data-module="track-click">
+    <div class="govuk-breadcrumbs" data-module="track-click">
       <ol>
 
         <li class="">
